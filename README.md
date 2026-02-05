@@ -58,8 +58,7 @@
             font-weight: bold;
         }
     </style>
-</head>
-<meta name="google-site-verification" content="pFUktzcQv85MJjNOze9NupTtiqeNSrn_QjMSBHxM_2w" />
+</head><meta name="google-site-verification" content="pFUktzcQv85MJjNOze9NupTtiqeNSrn_QjMSBHxM_2w" />
 <body>
 
     <div class="card">
